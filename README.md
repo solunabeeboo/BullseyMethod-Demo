@@ -1,4 +1,5 @@
 # Bullseye Method (installable web app)
+https://solunabeeboo.github.io/BullseyMethod-Demo/
 
 The Bullseye Method was made by Wyatt as a Claude artifact. This version runs anywhere as a
 **Progressive Web App (PWA)**: you can host it on GitHub Pages, install it on a phone or
